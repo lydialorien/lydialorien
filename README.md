@@ -1,16 +1,25 @@
-### Hi there 👋
+# Lydia Lorien
 
-<!--
-**lydialorien/lydialorien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Former Member of Anonymous | Digital Forensics | Cryptography | Curious Mind
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Greetings! I'm Lydia Lorien, a digital explorer with a background in digital forensics and cryptography. I once walked alongside **Anonymous**, but now I navigate the digital landscape as an independent seeker of truths hidden within lines of code.
+
+## Cryptic Pursuits
+
+Cryptic languages and encryption have been my playground. I've delved into the chaotic beauty of Malbolge and decoded intricate cryptographic puzzles. My skills reflect the convergence of curiosity and technical prowess.
+
+## Beyond the Binary
+
+Beyond the ones and zeroes, I'm an intellectual wanderer. "Intellectual Pursuits," a repository of mine, houses philosophical inquiries, academic explorations, and linguistic musings that mirror my inquisitive nature.
+
+---
+
+**Connect with Me**
+
+📧 Email: lydialorien@lcorpnow.com
+
+
