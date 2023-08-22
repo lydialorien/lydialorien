@@ -1,5 +1,10 @@
 # Lydia Lorien
 
+<p align="center">
+  <img src="pink-anime.gif" width="100%" alt="Animated GIF">
+</p>
+
+
 Former Member of Anonymous | Digital Forensics | Cryptography | Curious Mind
 
 ---
